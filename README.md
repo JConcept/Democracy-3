@@ -25,7 +25,8 @@ Si au démarage du jeu vous choisissez le français vous aurez une version cass�
 > Améliorations de la traduction du jeu  
 + 127 - 128
 + 193
-+ 237
++ 231
++ 237 - 238
 + 450
 + 474 - 477
   
