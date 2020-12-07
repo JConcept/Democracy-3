@@ -15,7 +15,9 @@ Si au démarage du jeu vous choisissez le français vous aurez une version cass�
 
 /strings.ini
 > Electioneering : 21 -> 124
-+ 
+
+/tutorial.csv
++ 59 -> 67
 
 ------------------
 
