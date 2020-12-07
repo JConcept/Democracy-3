@@ -17,6 +17,7 @@ Si au démarage du jeu vous choisissez le français vous aurez une version cass�
 /strings.ini
 > Electioneering : *21 -> 124*  
 > Sujet à interprétation sans contexte :  
+> Pour obtenir le contexte -> [/Captures-contextuelles](/Captures-contextuelles)
 + ligne : 46 - 54 : votre parti/du parti
 + ligne : 57 - 76 : manifeste/programme/promesses électorale/engagements électoraux
 + ligne : 108 - 123 : image/perception + ligne 91+90 -> ancienne ligne 23 déplacée)
