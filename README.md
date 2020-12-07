@@ -1,5 +1,5 @@
 # DM3 traduction française
-> [DDemocracy 3](https://store.steampowered.com/app/245470/Democracy_3/)
+> [Democracy 3](https://store.steampowered.com/app/245470/Democracy_3/)
 *Veillez à bien mettre votre jeu en version anglaise et ensuite aller dans options pour changer la langue et la mettre en français.*  
 Si au démarage du jeu vous choisissez le français vous aurez une version cassée où le DLC "Electioneering" affichera des noms de variables.
 
@@ -15,6 +15,11 @@ Si au démarage du jeu vous choisissez le français vous aurez une version cass�
 
 /strings.ini
 > Electioneering : 21 -> 124
+> Incertitudes/sujet à interprétation :
++ ligne : 46 - 54 : votre parti/du parti
++ ligne : 57 - 76 : manifeste/programme/promesses électorale/engagements électoraux
++ ligne : 108 - 123 : image/perception + ligne 91+90 -> ancienne ligne 23 déplacée)
++ ligne : 113 - 124 : @(une campagne/un @(show/spectacle)) médiatique => Campagne médiatique
 
 /tutorial.csv
 + 59 -> 67
